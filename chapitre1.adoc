@@ -1,13 +1,26 @@
 = À chacun son médicament
 Guinsly Mondésir <guinslym@gmail.com>
 :toc: left
+:toc-title: Table des Matières
 :imagesdir: /images
 :media: screen
 :pagenums:
 :pdf-style: style.yml
 :pdf-stylesdir: .
+:front-cover-image: images/download.png
+:description: Kopa, le personnage principal, est un étudiant à l’Université d’Ottawa. Un réel passionné de bibliothèques publiques. Il décide de faire un voyage à vélo pour rallier Ottawa à Mattawa. Kopa a comme objectif de s’arrêter à chaque bibliothèque qu’il rencontrera dans son parcours pour y participer et en profiter aussi pour décrire, dans son journal intime, son aventure. Par contre, un événement survenu peu avant son départ vient bouleverser l’état d’esprit de Kopa pendant son voyage.
 :keywords: novel, fiction, diary, ebook, epub, canada, Montréal, Québec, Guinsly Mondésir
 
+[colophon]
+= Colophon
+
+Les Presses Albatros , Montréal, Québec, Canada
+
+(C) 2017 par les Presses Albatros
+
+This book is designed by Guinsly Mondésir, Montréal, Québec, Canada.
+
+[abstract]
 == Synopsis
 Kopa, le personnage principal, est un étudiant à l’Université d’Ottawa. Un réel passionné de bibliothèques publiques. Il décide de faire un voyage à vélo pour rallier Ottawa à Mattawa. Kopa a comme objectif de s’arrêter à chaque bibliothèque qu’il rencontrera dans son parcours pour y participer et en profiter aussi pour décrire, dans son journal intime, son aventure. Par contre, un événement survenu peu avant son départ vient bouleverser l’état d’esprit de Kopa pendant son voyage.
 

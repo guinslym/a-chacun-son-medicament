@@ -5,14 +5,15 @@ page:
 base:
   font_color: #333333
   font_family: Times-Roman
-  font_size: 12
+  font_size: 14
   line_height_length: 17
-  line_height: $base_line_height_length / $base_font_size
+  line_height: 1.50
 vertical_spacing: $base_line_height_length
 heading:
   font_color: #191919
   font_size: 17
   font_style: bold
+  font_family: Times-Roman
   line_height: 1.2
   margin_bottom: $vertical_spacing
 link:
@@ -28,21 +29,15 @@ page:
 heading:
   align: center
   line_height: 1.2
-  margin_top: $vertical_spacing * 0.2
+  margin_top: 10
+  padding: [10, 0, 10, 0]
+  margin_bottom: 19.6
+  text_transform: uppercase
   h2_align: center
-  margin_bottom: 29.6
 .lead:
   align: right
 footer:
   height: 0.75in
   line_height: 1.2
-  recto:
-    right:
-      content: |
-        Section Title - Page Number +
-        {section-or-chapter-title} - {page-number}
-  verso:
-    left:
-      content: |
-        Page Number - Chapter Title +
-        {page-number} - {chapter-title}
+image:
+  width: 100%;
