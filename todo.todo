@@ -1,5 +1,8 @@
 todo:
   ☐ Stylesheet for pdf to add
   ☐ Front page image to add
-  ☐ Date and Hours to format (italic)
+  ✔ Date and Hours to format (italic) (date-heure-degré) @done(2017-08-18 13:18) @project(todo)
+  ✔ Pembroke hours .. don't match @done(2017-08-18 13:18) @project(todo)
+  ☐ Deep River summer hours break to verify
   ☐ Bibliothèque D'ottawa (capital...)
+  ☐ Identify each section of the document
