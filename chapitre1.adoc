@@ -3,27 +3,25 @@ Guinsly Mondésir <guinslym@gmail.com>
 :toc: left
 :imagesdir: /images
 image::download.png[]
-:pdf-style: style.yml
-:pdf-stylesdir: .
 :media: screen
 :pagenums:
-
+:keywords: novel, fiction, diary, ebook, epub, canada, Montréal, Québec
 
 == Synopsis
 Kopa, le personnage principal, est un étudiant à l’Université d’Ottawa. Un réel passionné de bibliothèques publiques. Il décide de faire un voyage à vélo pour rallier Ottawa à Mattawa. Kopa a comme objectif de s’arrêter à chaque bibliothèque qu’il rencontrera dans son parcours pour y participer et en profiter aussi pour décrire, dans son journal intime, son aventure. Par contre, un événement survenu peu avant son départ vient bouleverser l’état d’esprit de Kopa pendant son voyage.
 
 \(C) 2017
 
-=== Lettre de presentation
+=== À propos de l'auteur
+
 Guinsly Mondésir est étudiant à la maîtrise en sciences de l’Information à l’Université d’Ottawa. Pour son premier court récit, Guinsly a décidé de faire découvrir le journal intime de Kopa en y racontant son périple, ses souvenirs d’Haïti et sa venue au Canada (à Montréal précisément). Kopa est un personnage anxieux qui adore les bibliothèques publiques. Dans ce court récit, l’auteur essaie de déterminer comment les événements survenus durant l’enfance peuvent influencer les prises de décisions à l’âge adulte. L’auteur souhaite aussi susciter, chez le lecteur, le désir de participer aux bibliothèques publiques et de se prendre en main.
 
 <<<
+[.text-center.font_size.12px]
 == Bibliothèque Publique D’Ottawa : Succursale Cumberland
 
-[.lead]
-Vendredi 29 juillet 2016:: 20 degrés Celsius – 14:45
-
-subtitle: Hello world
+[.text-right]
+*Vendredi 29 juillet 2016* - __20 degrés Celsius – 14:45__
 
 Je suis à la bibliothèque de Cumberland. Je me sens fébrile quant à l’aventure à laquelle je me prépare. La préparation pour mon voyage est presque complète. Par contre, il ne faut surtout pas que j’oublie de passer à la quincaillerie la plus proche pour acheter une petite lanterne de camping. Ensuite, je vais l’insérer dans la valise de gauche. Cette valise se trouve sur le côté gauche du porte-bagage arrière de mon vélo. Il faut aussi que je trouve des sacs en plastique, deux ou trois peut-être. C’est ce qui me manque dans ma liste. Je crois pouvoir les insérer dans la valise de droite.
 
@@ -58,6 +56,9 @@ Je vais retourner chez moi pour continuer à me préparer pour mon voyage à vé
 
 <<<
 == Bibliothèque Publique D’Ottawa - Succursale Carp
+
+[.text-right]
+*Samedi 30 juillet 2016* – _10 :50 - 26 degrés Celsius_
 
 Je viens d’arriver à la succursale Carp. Tout au long du trajet à vélo pour arriver ici, j’ai dû me battre avec le doute. J’ai presque tout prévu pour mon voyage à vélo, mais je n’avais pas prévu que j’allais avoir autant de soucis qui allaient me passer par la tête. Je me disais que c’était dangereux de faire le voyage tout seul, que ça ne valait pas la peine, qu’une voiture pourrait me percuter, etc. Je n’avais pas prévu combattre toutes ces incertitudes-là. Le pire, c’est que ces doutes suscitent en moi de l’insécurité et cette dernière fait en sorte que je deviens angoissé. C’est comme si je me disais qu’il valait mieux que je reste chez nous. Je me suis aperçu que le doute sur la nécessité de mon voyage à vélo m’envahit parce que, parmi d’autres choses, j’ai peur de l’inconnu. Je crois que je me crée beaucoup trop de scénarios d’horreurs dans ma tête. Je me demande si les gens, par exemple Terry Fox, ont eu autant de doute ou ont dû faire face à autant de démons mentaux quand ils ont commencé leur voyage.
 
@@ -96,6 +97,9 @@ Donc, quand je dis « à chacun son médicament » c’est pour dire que chacun 
 
 <<<
 == Bibliothèque d’Arnprior
+
+[.text-right]
+*Samedi 30 juillet 2016* : _14 heures 50- – 32 degrés Celsius_
 
 Bon sang que c’était long la route! J’ai considéré rebrousser chemin à plusieurs reprises pour retourner chez moi à Ottawa. Google Maps avait prévu un trajet en bicyclette de 1h39 minutes pour arriver à Amprior. 1h39 minutes… Ce n’est pas réaliste du tout! Les serveurs de Google doivent connaitre un bogue pour calculer un trajet de 1h39. C’était vraiment long le chemin pour arriver à Amprior. Je n’en reviens pas!
 
@@ -160,6 +164,9 @@ J’utilise le verbe «participer» au lieu du verbe «visiter». Je trouve que 
 <<<
 == Bibliothèque publique de la région de Whitewater : Succursale Cobden
 
+[.text-right]
+*Dimanche 31 juillet 2016* : _13 heures 00 – 32 degrés Celsius_
+
 En ce moment, il y a des nuages qui cachent le soleil, ce qui est bien parce que la température est supportable. Comme je suis assis sur un banc public, je ne suis pas à mon aise alors je ne crois pas que je vais écrire beaucoup. D’emblée, je dois dire que je trouve que j’ai la mèche courte, que je me fâche pour un rien. C’est la succursale Cobden qui m’a fait remarquer ce trait de caractère. Il faisait extrêmement chaud sur la route pour arriver ici. On dirait que la chaleur et surtout le soleil qui me tapait sur la tête pendant mon voyage pour arriver ici aient augmenté mes craintes les plus profondes.
 
 Pour me situer, je suis présentement à Cobden au coin de la rue Main et de la rue Gould. Je suis assis sur un banc à environ 80 mètres de ce qu’on appelle en anglais la «Little Free Library» (LFL). On la nomme de plusieurs manières en français, par exemple la «Bibliothèque d’ Échange» (BE) ou la «Petite Bibliothèque Libre» (PBL) ou la «Petite Bibliothèque Communautaire» (PBC). Le concept de la PBC est simple: c’est tout d’abord une bibliothèque, dans le sens de «meuble dans lequel sont rangés des livres», que le propriétaire confectionne généralement lui-même et qu’il place au-devant de sa maison. Ensuite, le principe est qu’un passant peut prendre un livre gratuitement, à condition qu’il laisse lui aussi un livre dans la Petite Bibliothèque Communautaire. Je ne m’attendais pas à voir une PBC et encore moins de ce type. J’espérais la manifestation d’une bibliothèque publique et je n’en ai pas trouvé une qui soit ouverte. Par contre, la ville a mis à la disposition de tous une Petite Bibliothèque Communautaire. Je crois que c’est la ville qui en est le propriétaire parce que la PBC est située sur le terrain de l’Hôtel de Ville de Cobden.
@@ -210,6 +217,10 @@ J’avais pris une pause pour écrire dans mon journal et pour prendre une colla
 <<<
 == Bibliothèque publique de Pembroke
 
+[.text-right]
+*Lundi 1er août 2016* : _7 heures 10- – 15 degrés Celsius_
+
+
 Je suis à l’hôpital régional de Pembroke et il est présentement 7 heures 10 du matin. Nulle part où aller. Je savais que la journée allait être plate alors mon cerveau essayait de répertorier, d’après mon expérience, où l’endroit le plus susceptible d’avoir une bibliothèque à Pembroke pourrait être. Je me suis dit qu’il y avait trois choix: soit dans un hôpital, dans une église ou dans un foyer pour personnes itinérantes. J’essayais de trouver une bibliothèque pour méditer, car à chacun son médicament.
 
 Je savais que d’habitude les hôpitaux ont généralement une bibliothèque ou un centre de documentation qui est plus ou moins accessible au public. Par exemple, le centre hospitalier pour enfants de l’est de l’Ontario (CHEO) a la bibliothèque de ressources familiales Kaitlin Atkinson, les visiteurs peuvent se ressourcer en y empruntant ou en consultant des livres. L’Hôpital Général d’Ottawa a aussi une bibliothèque, mais elle est réservée au personnel employé de l’hôpital. C’est la raison pour laquelle je dis que la bibliothèque d’un centre hospitalier est plus ou moins accessible au public. Je dois me renseigner d’avance pour savoir si elle l’est.
@@ -246,6 +257,9 @@ Pour revenir à la planification de ma journée: aujourd’hui, je vais aller vi
 
 <<<
 == Bibliothèque publique de Deep River
+
+[.text-right]
+*Mardi 2 août 2016* : _19 heures 10- – 24 degrés Celsius_
 
 Après deux jours sans avoir eu accès à une bibliothèque publique, je suis heureux comme un poisson dans l’eau d’être à la bibliothèque publique de Deep River. Je me sens dans mon élément.
 
@@ -309,6 +323,9 @@ En résumé, à Mattawa, je prendrai l’autobus voyageur pour me rendre à Otta
 <<<
 
 == Bibliothèque John Dixon : Bibliothèque publique de Mattawa
+
+[.text-right]
+*mercredi 3 août 2016* – _25 degrés Celsius_
 
 …
 
@@ -411,7 +428,7 @@ Avant de passer à la conclusion, je veux faire quelque chose et je sais que mon
 Pour conclure, j’ai décidé que je vais déposer mon journal chez un éditeur pour qu’il soit publié. J’espère donner à d’autres l’envie de participer à sa bibliothèque municipale et d’aller en découvrir. Ma conviction, c’est que participer à sa bibliothèque publique, c’est enrichir la culture de sa communauté, enrichir son savoir-faire et son savoir-être… C’est de se réaliser.
 
 
-
+<<<
 == Remerciements
 
 * Anne-Julie Norésias
