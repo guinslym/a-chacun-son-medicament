@@ -4,6 +4,8 @@ Guinsly Mondésir <guinslym@gmail.com>
 :imagesdir: /images
 :media: screen
 :pagenums:
+:pdf-style: style.yml
+:pdf-stylesdir: .
 :keywords: novel, fiction, diary, ebook, epub, canada, Montréal, Québec, Guinsly Mondésir
 
 == Synopsis

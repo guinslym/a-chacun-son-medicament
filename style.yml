@@ -20,7 +20,6 @@ link:
 outline_list:
   indent: $base_font_size * 1.5
 title_page:
-  background_image: images/download.png
   subtitle:
     align: right
 menu_caret_content: " <font size=\"1.15em\"><color rgb=\"#b12146\">\u203a</color></font> "
