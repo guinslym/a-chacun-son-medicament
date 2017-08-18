@@ -5,6 +5,8 @@ Guinsly Mondésir <guinslym@gmail.com>
 image::download.png[]
 :pdf-style: style.yml
 :pdf-stylesdir: .
+:media: screen
+:pagenums:
 
 
 == Synopsis
@@ -20,6 +22,8 @@ Guinsly Mondésir est étudiant à la maîtrise en sciences de l’Information �
 
 [.lead]
 Vendredi 29 juillet 2016:: 20 degrés Celsius – 14:45
+
+subtitle: Hello world
 
 Je suis à la bibliothèque de Cumberland. Je me sens fébrile quant à l’aventure à laquelle je me prépare. La préparation pour mon voyage est presque complète. Par contre, il ne faut surtout pas que j’oublie de passer à la quincaillerie la plus proche pour acheter une petite lanterne de camping. Ensuite, je vais l’insérer dans la valise de gauche. Cette valise se trouve sur le côté gauche du porte-bagage arrière de mon vélo. Il faut aussi que je trouve des sacs en plastique, deux ou trois peut-être. C’est ce qui me manque dans ma liste. Je crois pouvoir les insérer dans la valise de droite.
 
