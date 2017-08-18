@@ -8,6 +8,7 @@ Guinsly Mondésir <guinslym@gmail.com>
 :pdf-style: style.yml
 :pdf-stylesdir: .
 :front-cover-image: images/download.png
+:encoding: utf-8
 :description: Kopa, le personnage principal, est un étudiant à l’Université d’Ottawa. Un réel passionné de bibliothèques publiques. Il décide de faire un voyage à vélo pour rallier Ottawa à Mattawa. Kopa a comme objectif de s’arrêter à chaque bibliothèque qu’il rencontrera dans son parcours pour y participer et en profiter aussi pour décrire, dans son journal intime, son aventure. Par contre, un événement survenu peu avant son départ vient bouleverser l’état d’esprit de Kopa pendant son voyage.
 :keywords: novel, fiction, diary, ebook, epub, canada, Montréal, Québec, Guinsly Mondésir
 
@@ -18,7 +19,7 @@ Les Presses Albatros , Montréal, Québec, Canada
 
 (C) 2017 par les Presses Albatros
 
-This book is designed by Guinsly Mondésir, Montréal, Québec, Canada.
+Le design de ce livre est l'oeuvre de Guinsly Mondésir, Montréal, Québec, Canada.
 
 [abstract]
 == Synopsis
@@ -32,6 +33,7 @@ Guinsly Mondésir est étudiant à la maîtrise en sciences de l’Information �
 
 <<<
 == Bibliothèque Publique d’Ottawa : Succursale Cumberland
+<<<
 
 [.text-right]
 *Vendredi 29 juillet 2016* - __14:45 - 20 degrés Celsius__
@@ -332,8 +334,8 @@ Il y a un bus voyageur qui fait la liaison Mattawa-Ottawa chaque jour. En fait, 
 Ottawa-Mattawa, ça me convient ! De plus, ça rime. Je ne m’en veux pas trop de ne pas pouvoir me rendre à North Bay. J’ai une contrainte de temps et des affaires à régler à Ottawa, ce qui fait que je ne peux pas m’attarder plus longtemps au voyage. Je dois dire que, pour un premier voyage à vélo, je suis satisfait et j’aime la persévérance dont j’ai fait preuve. Au début du voyage, je voulais rentrer chez moi. Pourtant, le voyage jusqu’à présent vaut entièrement la peine.
 
 En résumé, à Mattawa, je prendrai l’autobus voyageur pour me rendre à Ottawa. Je n’aurai pas besoin de retourner à bicyclette, ça aurait pris trop de temps et j’ai besoin de quelques jours de repos avant de recommencer ma vie effrénée.
-<<<
 
+<<<
 == Bibliothèque John Dixon : Bibliothèque publique de Mattawa
 
 [.text-right]

@@ -15,7 +15,12 @@ heading:
   font_style: bold
   font_family: Times-Roman
   line_height: 1.2
-  margin_bottom: $vertical_spacing
+  margin_bottom: 15
+  margin_top: 15
+  h2_align: center
+  h2_margin_bottom: 15
+  h2_margin_top: 15
+  h2_font_size: $base_font_size * 1.7
 link:
   font_color: #002FA7
 outline_list:
@@ -26,7 +31,7 @@ title_page:
 menu_caret_content: " <font size=\"1.15em\"><color rgb=\"#b12146\">\u203a</color></font> "
 page:
   background_color: #fefefe
-heading:
+header:
   align: center
   line_height: 1.2
   margin_top: 10
@@ -34,6 +39,7 @@ heading:
   margin_bottom: 19.6
   text_transform: uppercase
   h2_align: center
+  font_color: #009900
 .lead:
   align: right
 footer:
