@@ -10,9 +10,9 @@ todo:
   ✔ Ask question about the Header (spacing...) @done(2017-08-20 21:36) @project(todo)
   ✔ Change the color of the header @done(2017-08-20 21:38) @project(todo)
   ☐ Front cover image to redo. (inskape - wordcloud)
+  ☐ Not necessarly proud of AsciiDoctor InDesign is way better
   ✔ Add or change fonts if possible (for the text) @done(2017-08-20 21:38) @project(todo)
   ✔ This book is desgined by??? @done(2017-08-18 14:36) @project(todo)
-
 
 helper:
   ☐ http://www.vogella.com/tutorials/AsciiDoc/article.html#using-the-development-version-of-asciidoctor-to-create-pdf-files
@@ -25,3 +25,4 @@ helper:
 Command:
   ☐ asciidoctor-pdf -d book section1.adoc
   ☐ asciidoctor-pdf section1.adoc
+  ☐ asciidoctor -b docbook chapitre1.adoc
