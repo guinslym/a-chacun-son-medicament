@@ -12,3 +12,16 @@ todo:
   ☐ Front cover image to redo. (inskape - wordcloud)
   ☐ Add or change fonts if possible (for the text)
   ✔ This book is desgined by??? @done(2017-08-18 14:36) @project(todo)
+
+
+helper:
+  ☐ http://www.vogella.com/tutorials/AsciiDoc/article.html#using-the-development-version-of-asciidoctor-to-create-pdf-files
+  ☐ http://asciidoctor.org/docs/user-manual/#book-parts-and-chapters
+  ☐ https://github.com/asciidoctor/asciidoctor-pdf/blob/master/docs/theming-guide.adoc#keys-heading
+  ☐ http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#table-of-contents-toc
+  ☐ http://asciidoctor.org/docs/render-documents/
+  ☐ https://github.com/asciidoctor/asciidoctor-pdf/issues/746
+
+Command:
+  ☐ asciidoctor-pdf -d book section1.adoc
+  ☐ asciidoctor-pdf section1.adoc
