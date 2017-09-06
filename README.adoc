@@ -15,7 +15,20 @@ Guinsly Mondésir. --- Guinsly Mondésir © 2017
 
 My first book published made with asciidoctor
 
+=== Prerequisites
+☐ rvm install ruby-2.0.0-p648
+☐ rvm use ruby-2.0.0-p648
+☐ gem install asciidoctor
+☐ gem install asciidoctor-pdf
+☐ NOKOGIRI_USE_SYSTEM_LIBRARIES=1 gem install asciidoctor-epub3 --pre
+
 === Command:
   ☐ asciidoctor-pdf -d book chapitre1.adoc
   ☐ asciidoctor -b docbook chapitre1.adoc
   ☐ asciidoctor-epub3 -D output a.adoc  # in the epub folder
+
+
+
+=== Notes
+  1.  Do not use the latest version of ruby (issue with asciidoctor-epub3)
+  2. Creating epub needs to have a special layout (see the asciidoctor-epub3 documentation)
