@@ -1,8 +1,8 @@
-= Book Title
-Author Name
+= À Chacun son Médicament
+Guinsly Mondésir
 :doctype: book
 :imagesdir: images
-:front-cover-image: image:epub_cover.png[Front Cover,3000,4500]
+:front-cover-image: image:epub_cover.jpg[Front Cover,3000,4500]
 ifndef::ebook-format[:leveloffset: 1]
 //...and so on
 
