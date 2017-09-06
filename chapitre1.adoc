@@ -478,6 +478,27 @@ Pour conclure, j’ai décidé que je vais déposer mon journal chez un éditeur
 
 
 <<<
+
+== Droit d'auteur (Copyright)
+
+Mise en garde et avis d’exonération de responsabilité : Tous
+droits réservés. Il est interdit de reproduire, de mémoriser
+sur un système d’extraction de données ou de transmettre,
+sous quelque formes ou par quelque moyen que ce soit,
+électronique ou mécanique, photocopie, enregistrement ou
+autre, tout ou partie de la présente publication, à moins d’en
+avoir préalablement obtenu l’autorisation écrite de l’auteur,
+Guinsly Mondésir. --- Guinsly Mondésir © 2017
+
+== ISBN
+[.rolename]
+|===
+| Imprimé (livre) |  978-2-9816982-2-3
+| PDF | 978-2-9816982-0-9
+| Epub |978-2-9816982-1-6
+|===
+
+
 == Remerciements
 
 * Anne-Julie Norésias
@@ -485,3 +506,4 @@ Pour conclure, j’ai décidé que je vais déposer mon journal chez un éditeur
 * Peter Adakamos
 * Jacynda
 * Stephen Johnson
+* Francis Kopa
