@@ -1,3 +1,16 @@
+= À Chacun son Médicament
+
+== Droit d'auteur
+
+Mise en garde et avis d’exonération de responsabilité : Tous
+droits réservés. Il est interdit de reproduire, de mémoriser
+sur un système d’extraction de données ou de transmettre,
+sous quelque formes ou par quelque moyen que ce soit,
+électronique ou mécanique, photocopie, enregistrement ou
+autre, tout ou partie de la présente publication, à moins d’en
+avoir préalablement obtenu l’autorisation écrite de l’auteur,
+Guinsly Mondésir. --- Guinsly Mondésir © 2017
+
 == Readme
 
 My first book published made with asciidoctor
