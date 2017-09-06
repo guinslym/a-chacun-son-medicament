@@ -1,2 +1,8 @@
-command:
-asciidoctor-epub3 -D output a.adoc 
+== Readme
+
+My first book published made with asciidoctor
+
+=== Command:
+  ☐ asciidoctor-pdf -d book chapitre1.adoc
+  ☐ asciidoctor -b docbook chapitre1.adoc
+  ☐ asciidoctor-epub3 -D output a.adoc  # in the epub folder

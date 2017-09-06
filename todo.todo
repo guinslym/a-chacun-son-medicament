@@ -16,9 +16,10 @@ todo:
   ✔ Header margin-bottom @done(2017-08-20 21:36) @project(todo)
   ✔ Ask question about the Header (spacing...) @done(2017-08-20 21:36) @project(todo)
   ✔ Change the color of the header @done(2017-08-20 21:38) @project(todo)
-  ☐ Front cover image to redo. (inskape - wordcloud)
+  ✔ Front cover image to redo. (inskape - wordcloud) @done(2017-09-06 16:32) @project(todo)
   ☐ Not necessarly proud of AsciiDoctor --- InDesign is way better
-  ☐ Asciidoctor is great for Web Documentation and Low level book
+  ☐ I need to try asciidoctor in a ruby file to see the difference
+  ☐ Asciidoctor is great for Web Documentation and Low for book or fair enough for book design (stylesheets)
   ✔ Add or change fonts if possible (for the text) @done(2017-08-20 21:38) @project(todo)
   ✔ This book is desgined by??? @done(2017-08-18 14:36) @project(todo)
 
@@ -32,5 +33,5 @@ helper:
 
 Command:
   ☐ asciidoctor-pdf -d book chapitre1.adoc
-  ☐ asciidoctor-pdf section1.adoc
   ☐ asciidoctor -b docbook chapitre1.adoc
+  ☐ asciidoctor-epub3 -D output a.adoc
