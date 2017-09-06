@@ -24,6 +24,6 @@ helper:
   ☐ https://github.com/asciidoctor/asciidoctor-pdf/issues/746
 
 Command:
-  ☐ asciidoctor-pdf -d book section1.adoc
+  ☐ asciidoctor-pdf -d book chapitre1.adoc
   ☐ asciidoctor-pdf section1.adoc
   ☐ asciidoctor -b docbook chapitre1.adoc
