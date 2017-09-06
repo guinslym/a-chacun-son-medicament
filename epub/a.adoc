@@ -2,6 +2,7 @@
 Author Name
 :doctype: book
 :imagesdir: images
+:front-cover-image: image:epub_cover.png[Front Cover,3000,4500]
 ifndef::ebook-format[:leveloffset: 1]
 //...and so on
 
@@ -22,3 +23,9 @@ include::h.adoc[]
 include::i.adoc[]
 
 include::j.adoc[]
+
+include::k.adoc[]
+
+include::l.adoc[]
+
+include::m.adoc[]

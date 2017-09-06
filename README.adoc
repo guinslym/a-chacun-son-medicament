@@ -1,0 +1,2 @@
+command:
+asciidoctor-epub3 -D output a.adoc 
